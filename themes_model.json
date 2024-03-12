@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1223",
+    "name": "Music",
+    "description": "Talk about your favourite music",
+    "category": "music",
+    "chat_configuration": {
+      "name": "Alex Music",
+      "capability": [
+        {
+          "description": "Let's talk about rock",
+          "prompt": "Tell me something about rock"
+        },
+        {
+          "description": "Let's talk about rap",
+          "prompt": "Tell me something about rap"
+        },
+        {
+          "description": "Let's talk about jazz",
+          "prompt": "Tell me something about jazz"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2345",
+    "name": "Food",
+    "description": "Discuss your favorite foods and recipes",
+    "category": "food",
+    "chat_configuration": {
+      "name": "Foodie Chat",
+      "capability": [
+        {
+          "description": "Let's talk about Italian cuisine",
+          "prompt": "Tell me something about Italian food"
+        },
+        {
+          "description": "Let's talk about desserts",
+          "prompt": "Tell me about your favorite dessert"
+        },
+        {
+          "description": "Let's discuss cooking techniques",
+          "prompt": "Share a cooking tip with me"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3456",
+    "name": "Books",
+    "description": "Discuss your favorite books and authors",
+    "category": "books",
+    "chat_configuration": {
+      "name": "Bookworm Chat",
+      "capability": [
+        {
+          "description": "Let's talk about fiction",
+          "prompt": "Tell me about your favorite fictional book"
+        },
+        {
+          "description": "Let's discuss non-fiction",
+          "prompt": "Share a non-fiction book recommendation"
+        },
+        {
+          "description": "Let's talk about classic literature",
+          "prompt": "Tell me about a classic book you love"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4567",
+    "name": "Movies",
+    "description": "Discuss your favorite movies and film genres",
+    "category": "movies",
+    "chat_configuration": {
+      "name": "Cinephile Chat",
+      "capability": [
+        {
+          "description": "Let's talk about action movies",
+          "prompt": "Tell me about your favorite action film"
+        },
+        {
+          "description": "Let's discuss comedy movies",
+          "prompt": "Share a comedy film that always makes you laugh"
+        },
+        {
+          "description": "Let's talk about documentaries",
+          "prompt": "Tell me about a documentary that left a lasting impression on you"
+        }
+      ]
+    }
+  }
+]
