@@ -6,6 +6,8 @@
     "category": "music",
     "chat_configuration": {
       "name": "Alex Music",
+      "messages" : [],
+      "config": "",
       "capability": [
         {
           "description": "Let's talk about rock",
@@ -30,6 +32,7 @@
     "chat_configuration": {
       "name": "Foodie Chat",
       "messages" : [],
+      "config": "",
       "capability": [
         {
           "description": "Let's talk about Italian cuisine",
@@ -54,6 +57,7 @@
     "chat_configuration": {
       "name": "Bookworm Chat",
       "messages" : [],
+      "config": "",
       "capability": [
         {
           "description": "Let's talk about fiction",
@@ -78,6 +82,7 @@
     "chat_configuration": {
       "name": "Cinephile Chat",
       "messages" : [],
+      "config": "",
       "capability": [
         {
           "description": "Let's talk about action movies",
