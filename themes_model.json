@@ -29,6 +29,7 @@
     "category": "food",
     "chat_configuration": {
       "name": "Foodie Chat",
+      "messages" : [],
       "capability": [
         {
           "description": "Let's talk about Italian cuisine",
@@ -52,6 +53,7 @@
     "category": "books",
     "chat_configuration": {
       "name": "Bookworm Chat",
+      "messages" : [],
       "capability": [
         {
           "description": "Let's talk about fiction",
@@ -75,6 +77,7 @@
     "category": "movies",
     "chat_configuration": {
       "name": "Cinephile Chat",
+      "messages" : [],
       "capability": [
         {
           "description": "Let's talk about action movies",
